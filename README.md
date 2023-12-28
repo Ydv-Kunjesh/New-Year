@@ -3,7 +3,7 @@
 Welcome to the NewYearCrushProposal project! This project is a fun and creative way to propose to your crush on New Year's Eve. It provides a simple yet engaging interface to express your feelings and make your crush feel special as you step into the new year.
 
 ## Dear User,
-<p style="color:red;">Before proceeding with the exploration of the "New Year Crush Proposal Project," it is crucial to understand the context and purpose of this initiative. Please read the following disclaimer carefully to ensure a clear understanding of the project's intent and limitations.</p>
+<p style="color: red;">Before proceeding with the exploration of the "New Year Crush Proposal Project," it is crucial to understand the context and purpose of this initiative. Please read the following disclaimer carefully to ensure a clear understanding of the project's intent and limitations.</p>
 ## Project Overview:
 
 The "New Year Crush Proposal Project" is an informal and lighthearted endeavor designed to assist users in expressing their feelings to their crushes as they usher in the New Year. This project aims to provide creative and thoughtful ideas for conveying affection and interest, but it is important to note that the success of such endeavors depends on various factors, including personal dynamics and preferences.
