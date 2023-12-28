@@ -32,7 +32,7 @@ The project does not guarantee success in romantic endeavors. Results may vary b
 
 Users participating in the "New Year Crush Proposal Project" are expected to adhere to community guidelines and standards of conduct. Respectful and positive engagement is encouraged.
 
-##Conclusion
+## Conclusion
 
 By engaging in the "New Year Crush Proposal Project," users acknowledge the lighthearted and conceptual nature of the initiative. This disclaimer serves as a reminder to approach romantic pursuits with sensitivity, responsibility, and respect for others.
 
